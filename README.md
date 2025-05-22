@@ -1,3 +1,6 @@
+Architecture Diagram 
+                        
+                        
                         ┌───────────────────────────────┐
                         │         Frontend (React)      │
                         │   - Dashboard                 │
